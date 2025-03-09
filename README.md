@@ -1,4 +1,4 @@
-# Priyas
+# Priya
 My new python projects 
 Hi!!!
 # Better than Word-like rich text editors
